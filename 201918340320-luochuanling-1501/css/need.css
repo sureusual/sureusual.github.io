@@ -1,0 +1,14 @@
+/*草稿*/
+
+			/*表格样式*/
+			table{border:0px; padding:0px; margin-left:0px; background:rgba(255,255,255,0.30); height:480px;}
+			tr{border:0px solid #DFDFDF;}
+
+			/*表单样式*/
+			form{padding-right:50px;}
+
+			/*其他样式*/
+			.website{vertical-align:center; display:table-cell; padding-left:120px;}
+			.first{padding:80px;}
+			.tablebody{text-align:center;}
+			.login{font-size:20px; text-decoration: none;}
